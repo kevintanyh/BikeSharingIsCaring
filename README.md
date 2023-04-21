@@ -7,14 +7,14 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 We apply two models of Ridge Regression and MLP Neural Network onto the bike sharing dataset to accurately predict the total number of bikes rented at any hour, based on the available information and features given in the dataset. 
 
 Please view the following code in this format: 
-1. [data_preprocessing.ipynb](https://github.com/kevintanyh/ZXSK/blob/main/data_preprocessing.ipynb)
-2. [data_visualisation.ipynb](https://github.com/kevintanyh/ZXSK/blob/main/data_visualisation.ipynb)
-3. [data_feature_engineering.ipynb](https://github.com/kevintanyh/ZXSK/blob/main/data_visualisation.ipynb)
-4. [model1_Ridge.ipynb](https://github.com/kevintanyh/ZXSK/blob/main/model1_Ridge.ipynb)
-5. [model2_MLP.ipynb](https://github.com/kevintanyh/ZXSK/blob/main/model2_MLP.ipynb)
-6. [evaluation_conclusion.ipynb](https://github.com/kevintanyh/ZXSK/blob/main/evaluation_conclusion.ipynb)
+1. [data_preprocessing.ipynb](https://github.com/kevintanyh/BikeSharingIsCaring/blob/main/data_preprocessing.ipynb)
+2. [data_visualisation.ipynb](https://github.com/kevintanyh/BikeSharingIsCaring/blob/main/data_visualisation.ipynb)
+3. [data_feature_engineering.ipynb](https://github.com/kevintanyh/BikeSharingIsCaring/blob/main/data_visualisation.ipynb)
+4. [model1_Ridge.ipynb](https://github.com/kevintanyh/BikeSharingIsCaring/blob/main/model1_Ridge.ipynb)
+5. [model2_MLP.ipynb](https://github.com/kevintanyh/BikeSharingIsCaring/blob/main/model2_MLP.ipynb)
+6. [evaluation_conclusion.ipynb](https://github.com/kevintanyh/BikeSharingIsCaring/blob/main/evaluation_conclusion.ipynb)
 
-Additional: [model3_MLP_fulldata.ipynb](https://github.com/kevintanyh/ZXSK/blob/main/model3_MLP_fulldata.ipynb)
+Additional: [model3_MLP_fulldata.ipynb](https://github.com/kevintanyh/BikeSharingIsCaring/blob/main/model3_MLP_fulldata.ipynb)
 
 ## Problem Definition
 - Are we able to accurately predict the total number of bikes rented at any hour based on the available information, such as weather and time-related features. To help bike-sharing companies improve bike availability and optimise pricing strategies, which would help them optimise inventory and resources. 
