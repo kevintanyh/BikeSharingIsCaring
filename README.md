@@ -35,7 +35,7 @@ Additional: [model3_MLP_fulldata.ipynb](https://github.com/kevintanyh/BikeSharin
 - Ultimately, MLP Model 2.2 was concluded to be the most accurate in predicting `total_count` 
 - Yes, it is possible to predict the bike rental at any hour with acceptable amount of accuracy to help bike-sharing companies improve bike availability and optimise pricing strategies.
 
-## What did we learn from this project?
+## What did we learn from this project???
 1. Feature Engineering 
     - Welch’s ANOVA Test 
     - Dummy Coding
