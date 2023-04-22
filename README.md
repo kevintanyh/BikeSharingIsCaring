@@ -9,7 +9,7 @@ We apply two models of Ridge Regression and MLP Neural Network onto the bike sha
 Please view the following code in this format: 
 1. [data_preprocessing.ipynb](https://github.com/kevintanyh/BikeSharingIsCaring/blob/main/data_preprocessing.ipynb)
 2. [data_visualisation.ipynb](https://github.com/kevintanyh/BikeSharingIsCaring/blob/main/data_visualisation.ipynb)
-3. [data_feature_engineering.ipynb](https://github.com/kevintanyh/BikeSharingIsCaring/blob/main/data_visualisation.ipynb)
+3. [data_feature_engineering.ipynb](https://github.com/kevintanyh/BikeSharingIsCaring/blob/main/data_feature_engineering.ipynb)
 4. [model1_Ridge.ipynb](https://github.com/kevintanyh/BikeSharingIsCaring/blob/main/model1_Ridge.ipynb)
 5. [model2_MLP.ipynb](https://github.com/kevintanyh/BikeSharingIsCaring/blob/main/model2_MLP.ipynb)
 6. [evaluation_conclusion.ipynb](https://github.com/kevintanyh/BikeSharingIsCaring/blob/main/evaluation_conclusion.ipynb)
@@ -60,7 +60,7 @@ Additional: [model3_MLP_fulldata.ipynb](https://github.com/kevintanyh/BikeSharin
 6. https://statisticsbyjim.com/anova/welchs-anova-compared-to-classic-one-way-anova/ 
 7. https://techynotes.medium.com/dummy-variables-in-machine-learning-b3991367bd59
 8. https://scholarscompass.vcu.edu/cgi/viewcontent.cgi?article=5026&context=etd 
-9. https://www.mygreatlearning.com/blog/what-is-ridge-regression/#:~:text=Ridge%20regression%20is%20a%20model,away%20from%20the%20actual%20values 
+9. https://www.mygreatlearning.com/blog/what-is-ridge-regression/ 
 10. https://www.analyticsvidhya.com/blog/2017/06/a-comprehensive-guide-for-linear-ridge-and-lasso-regression/ 
 11. https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.Ridge.html 
 12. https://machinelearningmastery.com/ridge-regression-with-python/ 
@@ -74,7 +74,7 @@ Additional: [model3_MLP_fulldata.ipynb](https://github.com/kevintanyh/BikeSharin
 20. https://vitalflux.com/sklearn-neural-network-regression-example-mlpregressor/ 
 21. https://www.javatpoint.com/multi-layer-perceptron-in-tensorflow
 22. https://medium.com/analytics-vidhya/root-mean-square-log-error-rmse-vs-rmlse-935c6cc1802a 
-23. https://scholarworks.utep.edu/cs_techrep/1209/#:~:text=Empirical%20studies%20show%20that%20the,of%20the%20data%20for%20training 
+23. https://scholarworks.utep.edu/cs_techrep/1209/
 
 
 
